@@ -57,4 +57,4 @@ To boost Maruti Store's sales in 2024 and beyond:
 📢 Promote through Amazon, Flipkart, and Myntra using ads, offers, and coupons
 
 📌 Dashboard Preview
-![Dashboard](https://github.com/user-attachments/assets/481130e0-dd34-44d9-aa50-b416090fa3ec)
+![dashboard](https://github.com/user-attachments/assets/3c3748dc-2510-431d-b26d-feee8a4c548c)
